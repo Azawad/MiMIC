@@ -1,7 +1,7 @@
 @TODO: LOGO HERE
 
 <div align="center">
-    <img src="" width="350" />
+    <img src="/docs/MiMIC-LOGO-1.png" width="350" />
     <br>
     <i><h3>MiMIC: a @TODO for @TODO(caption)</h3></i>
     </p>
